@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sib
+Comment=Dictionary english to persian
+Icon=/usr/share/pixmaps/sib/sib.png
+Exec=/usr/bin/sib
+Type=Application
+Categories=
+OnlyShowIn=Gnome;
+X-GNOME-Autostart-enabled=true

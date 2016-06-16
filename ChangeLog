@@ -1,0 +1,27 @@
+Tuesday, March 03 2009 Mola Pahnadayan <mola.mp@gmail.com>
+	* Fix if ~/.sib not exist
+	* Set default of "Search on while" to enable
+	
+Monday, February 23 2009 Mola Pahnadayan <mola.mp@gmail.com>
+	* Add database manager
+	* import from BGL file ( babylon glossary library )
+	* can change font of translate
+	* New Icon
+	* Festival added
+	* Code clean and bug fix
+
+Friday, August 29 2008 Foad Nosrati Habibi <foad.nh@gmail.com>
+	*handle words ended to: ed, d, es, s, ing & ly
+	
+Friday, June 13 2008  Mola Pahnadayan  <mola.mp@gmail.com>
+	* Add dialog of database manager
+	* Some buf fix
+
+Wednesday, Nov 14 2007 Milad Rastian <miladmovie@gmail.com>
+	* Add espeak support 
+
+Tuesday, May 22 2007  Mola Pahnadayan  <mola.mp@gmail.com>
+	* Add authors file
+	* Add Global hotkey
+	* Bug fix
+

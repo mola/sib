@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Sib
+Comment=Dictionary english to persian
+Icon=/usr/share/pixmaps/sib/sib.png
+Exec=/usr/bin/sib
+Type=Application
+Categories=GNOME;Application;Utility;X-Fedora;
+Terminal=false
+Encoding=UTF-8
+X-Desktop-File-Install-Version=0.10

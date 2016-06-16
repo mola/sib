@@ -1,0 +1,31 @@
+==============
+Sib
+==============
+
+Sib is a dictionary for Gnome. Dictonary is written in python ( English to Persian and Persian to Engilish ) The database have 50259 Engilish words from xfardic dictionary .
+
+Feature
+
+   1. Trayicon support
+   2. Auto translate on selected word with mouse in any window and page
+   3. Translate notify
+   4. Auto startup at gnome ( Can disable from gnome-session-properties / Startup programs (tab) )
+   5. with Database manager can add new or edit database or import BGL file 
+
+Requirements
+
+   1. pygtk (>= 2.10)
+   2. python-sqlite2
+   3. python-notify (>=0.1) 
+
+
+Recommended
+
+   1. festival
+
+
+Basic Installation
+==================
+
+   1. make
+   2. make install ( root user ) 
